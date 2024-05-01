@@ -1,0 +1,4 @@
+accelerate
+transformers
+SentencePiece
+gradio
