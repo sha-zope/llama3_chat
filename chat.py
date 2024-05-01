@@ -5,7 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, TextIteratorStream
 from threading import Thread
 
 # Set an environment variable
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = "" # Add HuggingFace API Key 
 
 
 DESCRIPTION = '''
